@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #DD4833;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    color: white;
+}
+
+h2 {
+    font-size: 30px;
+    color: #323639;
+}
+
+main {
+    background-color: #323639;
+}
+
+p {
+    color: #AAA09F;
+}
+
+.institution {
+    color: #DD4833;
+}
