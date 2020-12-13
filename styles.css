@@ -6,16 +6,19 @@ body {
 header {
     background-color: #DD4833;
     text-align: center;
+    overflow: hidden;
 }
 
 h1 {
     font-size: 50px;
-    color: white;
+    color: whitesmoke;
+
 }
 
 h2 {
     font-size: 30px;
     color: #323639;
+    /*margin: 0;*/
 }
 
 main {
